@@ -1,6 +1,6 @@
 {
-    "name": "visualbuilder/email-templates",
-    "description": "Email Template editor for Filament",
+    "name": "majezanu/filament-email-templates",
+    "description": "Fork from visualbuilder/email-templates",
     "keywords": [
         "visualbuilder",
         "email-templates"
